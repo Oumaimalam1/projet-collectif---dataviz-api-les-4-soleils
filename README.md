@@ -7,7 +7,7 @@ Il propose plusieurs fonctionnalités intéressantes, notamment un bloc de notes
 
  Fonctionnalités principales:
 
-<h3 Bloc de notes : </h3>
+ Bloc de notes :
 Permet aux utilisateurs de créer, éditer et supprimer des notes.
 
 
