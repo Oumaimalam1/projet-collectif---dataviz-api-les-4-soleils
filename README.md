@@ -5,7 +5,7 @@ Ce projet est une page API développée par une équipe de quatre personnes sur 
 Il propose plusieurs fonctionnalités intéressantes, notamment un bloc de notes, des informations météorologiques en temps réel, une horloge et des images changeantes en fonction de l'horloge.
 <img width="944" alt="dataviz2" src="https://github.com/Oumaimalam1/projet-collectif---dataviz-api-les-4-soleils/assets/124173725/7c0558ef-c008-444d-bdc5-42e2ef0f5df2">
 
-<h3 Fonctionnalités principales:</h3>
+ Fonctionnalités principales:
 
 Bloc de notes :
 Permet aux utilisateurs de créer, éditer et supprimer des notes.
